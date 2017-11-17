@@ -1,0 +1,98 @@
+html{
+    font-family: "Microsoft YaHei";
+    /*font-size: 20px;*/
+}
+.l-mingxin{
+    width: 96rem;
+    height:20.5rem;
+    text-align: center;
+    border-top:1px solid #E9C504;
+    border-bottom:1px solid #E9C504;
+    background: url("img/bg1.png") no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.l-mingxin h2,.l-xilie h2{
+    font-size: 2.7rem;
+    color: #0a0a0a;
+    font-weight: 300;
+}
+.l-mingxin .h2-1{
+    margin-top: 6.5rem;
+}
+.l-danche{
+    width: 96rem;
+    height: 53.9rem;
+    background: url("img/bg2.png");
+    background-position: center;
+    background-size: cover;
+    padding-top: 3.65rem;
+}
+.l-item1,.l-item2{
+    width: 53.35rem;
+    height: 20.4rem;
+    border: 3px solid #E9C504;
+    margin-left: 21.25rem;
+}
+.l-item2{
+    margin-top: 3.55rem;
+}
+.l-item1-left{
+    width: 30.5rem;
+    height: 19.8rem;
+    background-size: cover;
+    background-color: rgba(155, 155, 155, 0.6);
+    display: inline-block;
+}
+.l-item1-left img {
+    height: 100%;
+}
+.l-item1-right{
+    width: 22.0rem;
+    display: inline-block;
+    /*margin-top: 4rem;*/
+}
+.l-item1-right p{
+    width: 18.5rem;
+}
+.l-item1-right .it1-r-1{
+    font-size: 1.8rem;
+    color: #e9c504;
+    margin: 1.5rem auto 0 auto;
+}
+.l-item1-right .it1-r-2{
+    font-size: 1.2rem;
+    color: #aeaeae;
+    margin-right: 3.25rem;
+}
+.l-item1-right .it1-r-3{
+    font-size: 2.4rem;
+    color: #ff0000;
+    margin: 0 auto;
+    margin-right: 2.75rem;
+}
+.l-item1-right button{
+    width: 10.55rem;
+    height: 2.95rem;
+    background-color: #e9c504;
+    border: none;
+    margin-right: 1.45rem;
+    font-size: 1.8rem;
+    color: #050505;
+}
+.l-xilie{
+    width: 96rem;
+    text-align: center;
+    height: 20.1rem;
+    background: url("img/bg3.png") no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: -20px;
+}
+.l-xilie .h2-1{
+    margin-top: 0;
+    padding-top: 6.5rem;
+}
+.l-mingxin,.l-danche,.l-xilie{
+    margin: 0 auto;
+}

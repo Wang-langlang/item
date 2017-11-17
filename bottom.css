@@ -1,0 +1,126 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+html{
+    /*font-size: 20px;*/
+}
+body{
+    /*overflow-x: hidden;*/
+}
+
+ul {
+    list-style: none;
+}
+
+body {
+    font-family: "Î¢ÈíÑÅºÚ";
+}
+
+.wclearfix {
+    clear: both;
+}
+
+.wcantainer {
+    width: 60rem;
+    margin:0 auto;
+}
+.wbox{
+    width:96rem;
+    height:55rem;
+    background: url("2.png");
+    margin: 0  auto;
+    background-position: center;
+    background-size: cover;
+}
+
+.witem1 {
+    width: 15.9rem;
+    height: 22.4rem;
+    float: left;
+    margin-right:3rem;
+    margin-top:2.5rem;
+    text-align: center;
+    position: relative;
+    background: #fff;
+}
+
+.witem1 img {
+    margin-top:1.5rem;
+}
+
+.witem1 p {
+    font-size: 0.75rem;
+    margin-top: 1rem;
+    text-align: left;
+}
+
+.witem1 h2 {
+    display: inline-block;
+    font-size: 1.8rem;
+    margin-top: 0.75rem;
+    color: #FF0000;
+}
+
+.wspan {
+    font-size:0.9rem;
+    color: #bebdbd;
+    margin-top: 0.75rem;
+    margin-right: 0.75rem;
+    text-decoration: line-through;
+}
+
+.wbutton {
+    width: 15.9rem;
+    height: 2.2rem;
+    background: orange;
+    border: none;
+    color: #0a0a0a;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.wfooter {
+    width:96rem;
+    height: 16.75rem;
+    background: #000;
+    margin: 0 auto;
+}
+
+.wfooter-item {
+    width: 60rem;
+    height:15.05rem;
+    margin-top: 3.35rem;
+    margin: 0 auto;
+}
+
+.wfooter-item1 {
+    float: left;
+    margin-top:3.35rem;
+    margin-right: 9.9rem;
+    color: #989898;
+    font-size: 0.9rem;
+}
+.wfooter-item1 > p {
+    font-size: 0.9rem;
+    color: #fff;
+}
+
+.wfooter-bottom {
+    height:2.5rem;
+    line-height: 2.5rem;
+    color: #fff;
+    font-size: 0.9rem;
+    text-align: center;
+    background: #000;
+    border-top: 1px solid #dddddd;
+}
+.witem1 img {
+    width: 15rem;
+    height: 10.5rem;
+    background-size: cover;
+}
